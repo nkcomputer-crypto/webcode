@@ -1,0 +1,9 @@
+<html debug="false">
+<head>
+<body id="rootBody" datasqstyle="{"top":0,"position":"static"}" datasquuid="c0aac70f-2ed6-4228-8264-e89385ac25c4" style="top: 40px; position: relative;" class="vi undefined">
+<chatgpt-sidebar data-gpts-theme="light"/>
+<chatgpt-sidebar-popups data-gpts-theme="light"/>
+<div id="__yetone-openai-translator" style="z-index: 2147483647;"/>
+<script src="chrome-extension://ehemiojjcpldeipjhjkepfdaohajpbdo/csp-test.js" id="FirebugLiteCSPTest" firebugignore="true" extension="Chrome" extension-id="ehemiojjcpldeipjhjkepfdaohajpbdo" csp-mode="true"/>
+<script src="chrome-extension://ehemiojjcpldeipjhjkepfdaohajpbdo/googleChrome.js"/>
+</html>
